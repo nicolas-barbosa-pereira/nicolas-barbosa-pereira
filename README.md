@@ -5,7 +5,7 @@
 
 <div align="center">  
    
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolas-barbosa-pereira&hide=contribs,prs&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF4&text_color=B0C4DE&bg_color=0d1117" alt="Murillo Oliveira github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolas-barbosa-pereira&hide=contribs,prs&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF4&text_color=B0C4DE&bg_color=0d1117" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-barbosa-pereira&layout=compact&count_private=true&hide_border=true&title_color=1E90FF&icon_color=1E90FF4&text_color=B0C4DE&bg_color=0d1117" />
 </div>
 
